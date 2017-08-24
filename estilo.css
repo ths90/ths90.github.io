@@ -55,7 +55,30 @@ header, footer, .redes-sociais, .tecnologias{
 .devcard{background-image: url('devcard.png');}
 
 .projetos h3{text-align: center}
+
 .projetos ul{width: 700px; margin: 0 auto;}
-.projetos li{margin-bottom: 7px; margin-top: 7px;}
+
+.projetos li{margin-bottom: 7px; 
+    margin-top: 7px;
+    padding-left: 24px;
+    background-image: url('projetos.png');
+    background-repeat: no-repeat;
+}
+
+.projetos li: hover{background-image: url('projetos2.png');
+    color: firebrick}
+
+a: hover{color: firebrick}
+
+h3{margin-top: 20px;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #ffffff}
     
-    
+.tecnologias ul{width: 700px;
+                margin: 0 auto}
+
+.tecnologias li{display: inline-block;
+                width: 150px;
+                border: 1px solid #ffffff;
+                padding: 8px;
+                margin: 3px;}
