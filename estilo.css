@@ -79,6 +79,21 @@ h3{margin-top: 20px;
 
 .tecnologias li{display: inline-block;
                 width: 150px;
-                border: 1px solid #ffffff;
                 padding: 8px;
                 margin: 3px;}
+
+.dev{background-color: forestgreen;
+    border: 2px forestgreen }
+
+.dev:hover{background-color: forestgreen}
+
+.app{background-color: darkseagreen;
+    border:  2px darkseagreen}
+    
+.app:hover{background-color: darkcyan}
+
+.design{background-color: cornflowerblue;
+    border: cornflowerblue}
+
+.design:hover{background-color: dodgerblue} 
+            
