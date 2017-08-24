@@ -1,6 +1,6 @@
 body{
     font-family: 'Open Sans', sans-serif;
-    background-color: snow;
+    background-color: black;
     color: chocolate;
 }
 
@@ -84,16 +84,31 @@ h3{margin-top: 20px;
 
 .dev{background-color: forestgreen;
     border: 2px forestgreen }
-
 .dev:hover{background-color: forestgreen}
 
 .app{background-color: darkseagreen;
     border:  2px darkseagreen}
-    
 .app:hover{background-color: darkcyan}
 
 .design{background-color: cornflowerblue;
     border: cornflowerblue}
-
 .design:hover{background-color: dodgerblue} 
+
+.banco{background-color: darkviolet;
+    border: 2px darkviolet}
+.banco:hover{background-color: darkslateblue}
+
+.sistema{background-color: #34495e;
+    border: 2px solid #2c3e50 }
+.sistema:hover{background-color: #2c3e50}
+
+.web{background-color: #e74c3c;
+    border: 2px solid #c0392b }
+.web:hover{background-color: #c0392b }
+
+footer{ margin-top: 50px;
+        padding-top: 20px;
+        padding-bottom: 50px;
+        background-color: #DC3D24;
+    text-shadow: 0.5px 1.5px #232B2B;}
             
