@@ -38,24 +38,20 @@ header, footer, .redes-sociais, .tecnologias{
     background-repeat: no-repeat;
     text-align: left;}
 
-.redes-sociais li{width: 40px;
+.redes-sociais li{ display: inline-block;}
+
+.redes-sociais li a{ display: inline-block;}
+
+.ico{ width: 40px;  
     height: 40px;
-    display: inline-block;
+    background-repeat: no-repeat;
+    overflow: hidden;
     text-indent: 7000px;
-}
+    display: inline-block;}
 
-.redes-sociais li a{display: block;
-    width: 40px;
-    height: 40px;}
-
-.ico-linkedin{width: 40px;
-    height: 40px;
-    background-image: url('linkedin.png');
-    background-repeat: no-repeat;}
-
-.ico-facebook{width: 40px;
-    height: 40px;
-    background-image: url('facebook.png');
-    background-repeat: no-repeat;}
+.linkedin{background-image: url('linkedin.png');}
+.github{background-image: url('github.png');}
+.facebook{background-image: url('facebook.png');}
+.devcard{background-image: url('devcard.png');}
     
     
