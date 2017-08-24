@@ -1,0 +1,42 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: black;
+    color: chocolate;
+}
+
+.corpo{
+    margin: 0 auto;
+    width: 960px;
+}
+h1, h2, h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: crimson;
+    margin-top: 3px;
+    margin-bottom: 5px;
+}
+h2{font-size: 22px;}
+h3{font-size: 20px;}
+a{color: darkgoldenrod}
+header, footer, .redes-sociais, .tecnologias{
+    text-align: center;
+}
+.mail{ width: 250px;
+    height: 20px;
+    display: inline-block;
+    padding-left: 21px;
+    background-image: url(email.png);
+    background-repeat: no-repeat;
+    text-align: left;}
+
+.telefone{width: 250px;
+    height: 20px;
+    display: inline-block;
+    padding-left: 21px;
+    background-image: url(telefone.png);
+    background-repeat: no-repeat;
+    text-align: left;}
+
+
+    
