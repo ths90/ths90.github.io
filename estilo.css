@@ -26,7 +26,7 @@ header, footer, .redes-sociais, .tecnologias{
     height: 20px;
     display: inline-block;
     padding-left: 21px;
-    background-image: url(email.png);
+    background-image: url(imagem/email.png);
     background-repeat: no-repeat;
     text-align: left;}
 
@@ -34,7 +34,7 @@ header, footer, .redes-sociais, .tecnologias{
     height: 20px;
     display: inline-block;
     padding-left: 21px;
-    background-image: url(telefone.png);
+    background-image: url(imagem/tel.png);
     background-repeat: no-repeat;
     text-align: left;}
 
@@ -49,9 +49,9 @@ header, footer, .redes-sociais, .tecnologias{
     text-indent: 7000px;
     display: inline-block;}
 
-.linkedin{background-image: url('linkedin.png');}
-.github{background-image: url('github.png');}
-.facebook{background-image: url('facebook.png');}
+.linkedin{background-image: url('imagem/link.png');}
+.github{background-image: url('imagem/git.png');}
+.facebook{background-image: url('imagem/fb.png');}
 .devcard{background-image: url('devcard.png');}
 
 .projetos h3{text-align: center}
